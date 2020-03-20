@@ -90,7 +90,7 @@ The function of each html element found on the website is as follows:
 - a: Represents a hyperlink, linking to another resource.
 
 ##### How is the list of news articles structured with HTML?
-Each new article is inside a <tr> element, which are inside a <tbody> element and this is inside a <table>, as shown in the previous hierarchy.
+Each new article is inside a `<tr>` element, which are inside a <tbody> element and this is inside a `<table>`, as shown in the previous hierarchy.
 
 ### 4.
 ##### Briefly describe what you see in files with names starting with hn.js and news.css.
