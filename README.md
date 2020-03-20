@@ -8,7 +8,7 @@
 ### 3.
 ##### Describe the structure of the document
 The structure follows the following hierarchy:
-'''
+```
 <html>
   <header>
   </header>
@@ -74,7 +74,7 @@ The structure follows the following hierarchy:
     </center>
   </body>
 </html>
-'''
+```
 It can be seen that each element is closed with the same name by adding a /.
 Each element is enclosed by <>.
 The function of each html element found on the website is as follows:
